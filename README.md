@@ -4,8 +4,7 @@ my favorite language (below)
 
 ### print("Hi there, I'm Caleb!") 👋
 
-- 🔭 I’m currently working on a Design Process Discord Bot in Python
-- 🌱 I’m currently learning Object Oriented Design and Web Development in Java 
+- 🌱 I’m currently learning deep learning with neural networks in Python, using PyTorch
 - 📫 How to reach me: leecaleb51@gmail.com or lee.cale@northeastern.edu
 - 😄 Pronouns: He/him/his
 - ⚡ Fun fact: I love listening to music and playing Ping Pong!
